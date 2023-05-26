@@ -7,4 +7,3 @@
 
 ⤷  [Aprendizado](https://github.com/FelipeAndreolla/Aprendizado.git) <br>
 ⤷  [Portifólio](https://github.com/FelipeAndreolla/Portifolio) <br>
-⤷  [Currículo](http://www.google.com)
