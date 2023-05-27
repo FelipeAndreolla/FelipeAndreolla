@@ -7,4 +7,4 @@
 
 
 ⤷  [Aprendizado](https://github.com/FelipeAndreolla/Aprendizado.git) <br>
-⤷  [Portifólio](https://github.com/FelipeAndreolla/Portifolio)
+⤷  [Portfólio](https://github.com/FelipeAndreolla/Portifolio)
